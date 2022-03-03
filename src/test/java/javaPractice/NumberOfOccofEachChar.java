@@ -6,6 +6,7 @@ public class NumberOfOccofEachChar {
 	public static void main(String[] args) {
 		
 		String s = "india";
+	//	String s = s1.replace(" ", "");
 		
 		/*Step-1 Create any set collection and add all the char of given string into SET*/
 		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
